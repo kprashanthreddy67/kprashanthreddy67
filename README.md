@@ -1,5 +1,13 @@
 # 💫 About Me:
-# About Me<br><br>Hi, I'm **K. Prashanth Reddy**, a final-year B.Tech student with a strong interest in **Java Backend Development** and software engineering. I enjoy solving challenging programming problems and building scalable, real-world applications.<br><br>My technical skills include **Java, Spring Boot, MySQL, HTML, CSS, JavaScript, Git, and REST APIs**. I also have experience developing full-stack projects and enjoy learning modern backend technologies such as microservices, Spring Security, Docker, and cloud deployment.<br><br>I am passionate about Data Structures and Algorithms and regularly practice coding to strengthen my problem-solving skills. I believe in writing clean, efficient, and maintainable code while continuously improving my technical knowledge.<br><br>I am currently seeking opportunities where I can contribute, learn from experienced developers, and grow as a Software Engineer. My goal is to build reliable software that creates value for users and businesses.<br><br>When I'm not coding, I enjoy exploring new technologies, working on personal projects, and participating in hackathons to gain practical experience and collaborate with others.<br>
+### 👨‍💻 About Me
+
+Hi, I'm **K. Prashanth Reddy**, a final-year B.Tech student passionate about **Java Backend Development** and Software Engineering.
+
+- 🌱 Currently learning **Spring Boot, Microservices, Docker, and AWS**
+- 💻 Strong in **Java, Spring Boot, MySQL, HTML, CSS, JavaScript, and REST APIs**
+- 🧠 Passionate about **Data Structures & Algorithms** and solving coding problems
+- 🚀 Building full-stack and backend projects to gain real-world experience
+- 🎯 Looking for **Software Engineer / Java Backend Developer** opportunities
 
 
 ## 🌐 Socials:
